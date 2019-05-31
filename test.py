@@ -9,4 +9,6 @@ if __name__ == '__main__':
 
     fl = flag(args.n)
 
+    print(fl)
+
 
